@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Gaming",
+    "description": "Laptop para gaming de alta gama",
+    "code": "LAPTOP001",
+    "price": 1200,
+    "thumbnail": "laptop1.jpg",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Mouse Inalámbrico",
+    "description": "Mouse inalámbrico ergonómico",
+    "code": "MOUSE001",
+    "price": 50,
+    "thumbnail": "mouse1.jpg",
+    "stock": 100
+  }
+]
