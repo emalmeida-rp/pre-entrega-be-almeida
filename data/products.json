@@ -16,5 +16,14 @@
     "price": 50,
     "thumbnail": "mouse1.jpg",
     "stock": 100
+  },
+  {
+    "id": 3,
+    "title": "Teclado Mecánico",
+    "description": "Teclado mecánico RGB para gaming",
+    "code": "TECLADO001",
+    "price": 90,
+    "thumbnail": "teclado1.jpg",
+    "stock": 30
   }
 ]
